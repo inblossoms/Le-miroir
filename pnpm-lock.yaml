@@ -1,0 +1,15 @@
+lockfileVersion: '6.0'
+
+devDependencies:
+  commander:
+    specifier: ^11.0.0
+    version: registry.npmmirror.com/commander@11.0.0
+
+packages:
+
+  registry.npmmirror.com/commander@11.0.0:
+    resolution: {integrity: sha512-9HMlXtt/BNoYr8ooyjjNRdIilOTkVJXB+GhxMTtOKwk0R4j4lS4NpjuqmRxroBfnfTSHQIHQB7wryHhXarNjmQ==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/commander/-/commander-11.0.0.tgz}
+    name: commander
+    version: 11.0.0
+    engines: {node: '>=16'}
+    dev: true
