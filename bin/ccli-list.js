@@ -1,1 +1,1 @@
-require("../lib/ccli-list");
+require("../lib/list");
