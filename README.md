@@ -38,7 +38,7 @@ le init owner/repo project-name
 
 // Method 2：
 // eg: le init mirror[your mark template] inblossoms/Le-miroir
-le init template-name project-name
+le init template-index-name project-name
 ```
 
 </details>
