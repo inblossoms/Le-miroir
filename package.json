@@ -1,5 +1,5 @@
 {
-  "name": "ccli",
+  "name": "le-miroir",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "ccli": "./bin/ccli.js"
+    "le": "./bin/le.js"
   },
   "keywords": [],
   "author": "",
