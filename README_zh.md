@@ -7,7 +7,7 @@ Le miroir 可以帮助您更方便地获得您需要的仓库。它就像一个�
 
 <br>
 
-## 📦 Install
+## Install
 
 ```
 # install Le-miroir
@@ -16,7 +16,7 @@ npm i -g Le-miroir
 
 <br>
 
-## 🌈 Options
+## Options
 
 - `le init` - 生成你的本地项目。
 - `le create` - 模板标记列表。
@@ -26,7 +26,7 @@ npm i -g Le-miroir
 
 <br>
 
-## 🌰 Usage
+## Usage
 
 <details>
 <summary>INIT</summary>
@@ -67,7 +67,7 @@ le remove
 
 </details>
 
-# ⭐ Feature
+## Feature
 
 - 支持使用 'owner/repo' 作为寻址方法下载目标仓库
 - 支持标记存储库以供以后查看和下载。

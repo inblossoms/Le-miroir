@@ -7,7 +7,7 @@ Le miroir can help you obtain the warehouse you need more conveniently. It is li
 
 <br>
 
-## 📦 Install
+## Install
 
 ```
 # install Le-miroir
@@ -16,7 +16,7 @@ npm i -g Le-miroir
 
 <br>
 
-## 🌈 Options
+## Options
 
 - `le init` - Generate a new project.
 - `le mark` - Mark your template
@@ -26,7 +26,7 @@ npm i -g Le-miroir
 
 <br>
 
-## 🌰 Usage
+## Usage
 
 <details>
 <summary>INIT</summary>
@@ -68,7 +68,7 @@ le remove
 </details>
 
 <br>
-# ⭐ Feature
+## Feature
 
 - Supports downloading the target warehouse using 'owner/repo' as the addressing method
 - Support for marking repositories for later viewing and downloading.
