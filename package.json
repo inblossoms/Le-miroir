@@ -1,7 +1,7 @@
 {
   "name": "le-miroir",
   "version": "1.0.0",
-  "description": "",
+  "description": "It is like a mirror, without the need for cloning, it only requires a 'owner/repo' to obtain the target repository",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,11 @@
   "bin": {
     "le": "./bin/le.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inblossoms/Le-miroir.git"
+  },
+  "homepage": "https://github.com/inblossoms/Le-miroir",
   "keywords": [
     "cli",
     "template-engine",
