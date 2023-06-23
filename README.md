@@ -7,7 +7,7 @@ Le miroir can help you obtain the warehouse you need more conveniently. It is li
 
 <br>
 
-## 📦 Usage
+## 📦 Install
 
 ```
 # install Le-miroir
@@ -19,13 +19,55 @@ npm i -g Le-miroir
 ## 🌈 Options
 
 - `le init` - Generate a new project.
-- `le create` - Mark your template
+- `le mark` - Mark your template
 - `le list` - List of templates
 - `le remove` - Eliminating template
 - `le clear` - Clear the list of templates
 
 <br>
 
+## 🌰 Usage
+
+<details>
+<summary>INIT</summary>
+
+```js
+// Method 1：
+// eg: le init inblossoms/Le-miroir mirror[local folder name]
+le init owner/repo project-name
+
+// Method 2：
+// eg: le init mirror[your mark template] inblossoms/Le-miroir
+le init template-name project-name
+```
+
+</details>
+<br>
+
+<details>
+<summary>MARK</summary>
+
+```js
+le mark
+
+# ? Please mark your warehouse: <Template index name>
+# ? Please enter the warehouse address: <owner/repo>
+```
+
+</details>
+<br>
+<details>
+<summary>REMOVE</summary>
+
+```js
+le remove
+
+# ? Remove the name of the repository you want to delete: <Template index name>
+```
+
+</details>
+
+<br>
 # ⭐ Feature
 
 - Supports downloading the target warehouse using 'owner/repo' as the addressing method
