@@ -10,8 +10,8 @@ Le miroir 可以帮助您更方便地获得您需要的仓库。它就像一个�
 ## Install
 
 ```
-# install Le-miroir
-npm i -g le-miroir
+# install le-npmirror
+npm i -g le-npmirror
 ```
 
 <br>

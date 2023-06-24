@@ -10,8 +10,8 @@ Le miroir can help you obtain the warehouse you need more conveniently. It is li
 ## Install
 
 ```
-# install Le-miroir
-npm i -g le-miroir
+# install le-npmirror
+npm i -g le-npmirror
 ```
 
 <br>

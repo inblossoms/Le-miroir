@@ -1,5 +1,5 @@
 {
-  "name": "le-miroir",
+  "name": "le-npmirror",
   "version": "1.0.0",
   "description": "It is like a mirror, without the need for cloning, it only requires a 'owner/repo' to obtain the target repository",
   "main": "index.js",
@@ -16,16 +16,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/inblossoms/Le-miroir.git"
+    "url": "https://github.com/inblossoms/le-npmirror.git"
   },
-  "homepage": "https://github.com/inblossoms/Le-miroir",
+  "homepage": "https://github.com/inblossoms/le-npmirror",
   "keywords": [
     "cli",
     "template-engine",
     "client-server",
     "mirror",
-    "le-miroir",
-    "Le-miroir"
+    "le-npmirror",
+    "Le-npmirror"
   ],
   "author": "inblossoms",
   "license": "ISC",
