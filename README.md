@@ -10,6 +10,10 @@ Le miroir can help you obtain the warehouse you need more conveniently. It is li
 ## Install
 
 ```
+# le-npmirror development with commander requires that you have the commander environment configured locally
+# If you do not have the commander module installed locally, you need to install it
+npm i-g commander
+
 # install le-npmirror
 npm i -g le-npmirror
 ```
