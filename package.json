@@ -1,6 +1,6 @@
 {
   "name": "le-npmirror",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "It is like a mirror, without the need for cloning, it only requires a 'owner/repo' to obtain the target repository",
   "main": "index.js",
   "scripts": {
@@ -35,7 +35,6 @@
     "commander": "^11.0.0",
     "download-git-repo": "^3.0.2",
     "inquirer": "^8.0.0",
-    "ncp": "^2.0.0",
     "ora": "^5.4.1"
   }
 }
