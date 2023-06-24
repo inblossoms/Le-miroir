@@ -1,18 +1,18 @@
 {
   "name": "le-npmirror",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "It is like a mirror, without the need for cloning, it only requires a 'owner/repo' to obtain the target repository",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "le": "./bin/le.js",
-    "le-init": "./bin/le-init.js",
-    "le-mark": "./bin/le-mark.js",
-    "le-list": "./bin/le-list.js",
-    "le-remove": "./bin/le-remove.js",
-    "le-clear": "./bin/le-clear.js"
+    "le": "bin/le.js",
+    "le-init": "bin/le-init.js",
+    "le-mark": "bin/le-mark.js",
+    "le-list": "bin/le-list.js",
+    "le-remove": "bin/le-remove.js",
+    "le-clear": "bin/le-clear.js"
   },
   "repository": {
     "type": "git",
