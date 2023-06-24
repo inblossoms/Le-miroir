@@ -11,7 +11,7 @@ Le miroir 可以帮助您更方便地获得您需要的仓库。它就像一个�
 
 ```
 # install Le-miroir
-npm i -g Le-miroir
+npm i -g le-miroir
 ```
 
 <br>

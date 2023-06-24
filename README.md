@@ -11,7 +11,7 @@ Le miroir can help you obtain the warehouse you need more conveniently. It is li
 
 ```
 # install Le-miroir
-npm i -g Le-miroir
+npm i -g le-miroir
 ```
 
 <br>
@@ -68,6 +68,7 @@ le remove
 </details>
 
 <br>
+
 ## Feature
 
 - Supports downloading the target warehouse using 'owner/repo' as the addressing method
