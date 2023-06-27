@@ -14,9 +14,6 @@ Le miroir can help you obtain the warehouse you need more conveniently. It is li
 # If you do not have the commander module installed locally, you need to install it
 npm i-g commander
 
-# It is recommended that you use 'npx' to call it.
-npx le-npmirror
-
 # install le-npmirror
 npm i -g le-npmirror
 ```

@@ -14,9 +14,6 @@ Le miroir 可以帮助您更方便地获得您需要的仓库。它就像一个�
 # 如果您本地未安装 commander 模块，需要进行安装
 npm i -g commander
 
-# 推荐您通过 npx 的方式使用
-npx le-npmirror
-
 # install le-npmirror
 npm i -g le-npmirror
 ```
