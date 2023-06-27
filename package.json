@@ -1,6 +1,6 @@
 {
   "name": "le-npmirror",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "It is like a mirror, without the need for cloning, it only requires a 'owner/repo' to obtain the target repository",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,14 @@
     "le-remove": "bin/le-remove.js",
     "le-clear": "bin/le-clear.js"
   },
+  "files": [
+    "bin/le.js",
+    "bin/le-init.js",
+    "bin/le-mark.js",
+    "bin/le-list.js",
+    "bin/le-remove.js",
+    "bin/le-clear.js"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/inblossoms/le-npmirror.git"

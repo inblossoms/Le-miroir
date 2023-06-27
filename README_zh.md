@@ -14,6 +14,9 @@ Le miroir 可以帮助您更方便地获得您需要的仓库。它就像一个�
 # 如果您本地未安装 commander 模块，需要进行安装
 npm i -g commander
 
+# 推荐您通过 npx 的方式使用
+npx le-npmirror
+
 # install le-npmirror
 npm i -g le-npmirror
 ```
@@ -37,11 +40,11 @@ npm i -g le-npmirror
 
 ```js
 // Method 1
-// eg: le init inblossoms/Le-miroir mirror[local folder name]
+// eg: le init inblossoms/le-npmirror mirror[local folder name]
 le init owner/repo project-name
 
 // Method 2
-// eg: le init mirror[your mark template] inblossoms/Le-miroir
+// eg: le init mirror[your mark template] inblossoms/le-npmirror
 le init template-index-name project-name
 ```
 

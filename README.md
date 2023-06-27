@@ -14,6 +14,9 @@ Le miroir can help you obtain the warehouse you need more conveniently. It is li
 # If you do not have the commander module installed locally, you need to install it
 npm i-g commander
 
+# It is recommended that you use 'npx' to call it.
+npx le-npmirror
+
 # install le-npmirror
 npm i -g le-npmirror
 ```
@@ -37,11 +40,11 @@ npm i -g le-npmirror
 
 ```js
 // Method 1：
-// eg: le init inblossoms/Le-miroir mirror[local folder name]
+// eg: le init inblossoms/le-npmirror mirror[local folder name]
 le init owner/repo project-name
 
 // Method 2：
-// eg: le init mirror[your mark template] inblossoms/Le-miroir
+// eg: le init mirror[your mark template] inblossoms/le-npmirror
 le init template-index-name project-name
 ```
 
