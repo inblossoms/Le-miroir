@@ -46,5 +46,8 @@
     "figlet": "^1.6.0",
     "inquirer": "^8.0.0",
     "ora": "^5.4.1"
+  },
+  peerDependencies: {
+    commander: 11.1.0
   }
 }
